@@ -1,0 +1,19 @@
+html {
+    font-size: 62.5%;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+#root,
+.app {
+    height: 100%;
+}
+
+.app {
+    background-color: #3181f2;
+    max-width: 50rem;
+    margin: 0 auto;
+}
