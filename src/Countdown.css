@@ -4,3 +4,13 @@
     font-size: 1.8rem;
     padding: 2.5rem;
 }
+
+.countdown__icons {
+    display: none;
+    float: right;
+    font-size: 1.2rem;
+}
+
+.countdown:hover .countdown__icons {
+    display: block;
+}
